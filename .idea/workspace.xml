@@ -2,38 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c16de45-87d6-4e12-9ffd-5a1a3f0c61ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/AnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/AnimalsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/EndangeredAnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/EndangeredAnimalsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/LocationsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/LocationsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/RangersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/RangersTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/SightingsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/SightingsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-AnimalsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-AnimalsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-LocationsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-LocationsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-RangersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-RangersTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-SightingsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-SightingsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/AnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/AnimalsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RangersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RangersTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/SightingsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/SightingsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-AnimalsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-AnimalsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-RangersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-RangersTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SightingsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SightingsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
