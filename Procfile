@@ -1,1 +1,2 @@
-web: ./build/install/habib-coder/bin/habib-coder
+web: ./build/install/wildlife-habib
+/bin/wildlife-habib

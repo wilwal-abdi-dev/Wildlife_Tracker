@@ -5,7 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>Wildlife-Tracker</groupId>
-    <artifactId>Wildlife-Tracker</artifactId>
+    <artifactId>wildlife-habib
+    </artifactId>
     <version>1.0</version>
 
     <dependencies>
@@ -87,9 +88,11 @@
                 <configuration>
                     <jdkVersion>1.8</jdkVersion>
                     <!-- Change this to YOUR application name! -->
-                    <appName>habib-coder</appName>
+                    <appName>wildlife-habib
+                    </appName>
                     <processTypes>
-                        <web>java -jar target/ habib-coder-1.0-jar-with-dependencies.jar</web>
+                        <web>java -jar target/ wildlife-habib
+                            -1.0-jar-with-dependencies.jar</web>
                     </processTypes>
                 </configuration>
             </plugin>

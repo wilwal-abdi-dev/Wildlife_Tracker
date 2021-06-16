@@ -1,0 +1,1 @@
+web: java -jar target/ habib-coder-1.0-jar-with-dependencies.jar

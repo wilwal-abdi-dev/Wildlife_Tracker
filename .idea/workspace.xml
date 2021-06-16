@@ -3,7 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="3c16de45-87d6-4e12-9ffd-5a1a3f0c61ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/public/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/animal-view.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/animal-view.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/AnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/AnimalsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RangersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RangersTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/SightingsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/SightingsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-AnimalsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-AnimalsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-RangersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-RangersTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SightingsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SightingsTest.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
