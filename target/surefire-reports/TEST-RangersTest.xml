@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RangersTest" time="0.1" tests="7" errors="5" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RangersTest" time="0.196" tests="7" errors="5" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.11+9"/>
@@ -61,7 +61,7 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="entriesAreDeleted" classname="RangersTest" time="0.033">
+  <testcase name="entriesAreDeleted" classname="RangersTest" time="0.063">
     <error message="Error in executeUpdate, ERROR: column &quot;phone_number&quot; of relation &quot;rangers&quot; does not exist&#10;  Position: 40" type="org.sql2o.Sql2oException">org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -72,7 +72,7 @@ ERROR: column "phone_number" of relation "rangers" does not exist
 	at RangersTest.entriesAreDeleted(RangersTest.java:67)
 </error>
   </testcase>
-  <testcase name="allSightingsAreReturnedForRanger" classname="RangersTest" time="0.013">
+  <testcase name="allSightingsAreReturnedForRanger" classname="RangersTest" time="0.016">
     <error message="Error in executeUpdate, ERROR: column &quot;phone_number&quot; of relation &quot;rangers&quot; does not exist&#10;  Position: 40" type="org.sql2o.Sql2oException">org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -83,8 +83,8 @@ ERROR: column "phone_number" of relation "rangers" does not exist
 	at RangersTest.allSightingsAreReturnedForRanger(RangersTest.java:79)
 </error>
   </testcase>
-  <testcase name="createInstanceOfRangersClass_true" classname="RangersTest" time="0.008"/>
-  <testcase name="findById" classname="RangersTest" time="0.011">
+  <testcase name="createInstanceOfRangersClass_true" classname="RangersTest" time="0.013"/>
+  <testcase name="findById" classname="RangersTest" time="0.023">
     <error message="Error in executeUpdate, ERROR: column &quot;phone_number&quot; of relation &quot;rangers&quot; does not exist&#10;  Position: 40" type="org.sql2o.Sql2oException">org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -95,7 +95,7 @@ ERROR: column "phone_number" of relation "rangers" does not exist
 	at RangersTest.findById(RangersTest.java:40)
 </error>
   </testcase>
-  <testcase name="entryIsUpdatedCorrectly" classname="RangersTest" time="0.012">
+  <testcase name="entryIsUpdatedCorrectly" classname="RangersTest" time="0.025">
     <error message="Error in executeUpdate, ERROR: column &quot;phone_number&quot; of relation &quot;rangers&quot; does not exist&#10;  Position: 40" type="org.sql2o.Sql2oException">org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -106,7 +106,7 @@ ERROR: column "phone_number" of relation "rangers" does not exist
 	at RangersTest.entryIsUpdatedCorrectly(RangersTest.java:51)
 </error>
   </testcase>
-  <testcase name="allEntriesAreSaved" classname="RangersTest" time="0.01">
+  <testcase name="allEntriesAreSaved" classname="RangersTest" time="0.018">
     <error message="Error in executeUpdate, ERROR: column &quot;phone_number&quot; of relation &quot;rangers&quot; does not exist&#10;  Position: 40" type="org.sql2o.Sql2oException">org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -117,5 +117,5 @@ ERROR: column "phone_number" of relation "rangers" does not exist
 	at RangersTest.allEntriesAreSaved(RangersTest.java:20)
 </error>
   </testcase>
-  <testcase name="emptyFieldsAreNotSaved" classname="RangersTest" time="0.011"/>
+  <testcase name="emptyFieldsAreNotSaved" classname="RangersTest" time="0.032"/>
 </testsuite>

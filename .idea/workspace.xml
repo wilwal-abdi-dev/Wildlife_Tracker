@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3c16de45-87d6-4e12-9ffd-5a1a3f0c61ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wildlife-Tracker-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/system.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/Wildlife-Tracker-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/AnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/AnimalsTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/EndangeredAnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/EndangeredAnimalsTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/LocationsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/LocationsTest.txt" afterDir="false" />
@@ -20,7 +15,10 @@
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-LocationsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-LocationsTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-RangersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-RangersTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-SightingsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-SightingsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/wildlife-habib-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/wildlife-habib-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/wildlife-habib-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/wildlife-habib-1.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/AnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/AnimalsTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" afterDir="false" />
@@ -31,6 +29,8 @@
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-RangersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-RangersTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SightingsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SightingsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/wildlife-habib-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/wildlife-habib-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/wildlife-habib-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/wildlife-habib-1.0.jar" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
