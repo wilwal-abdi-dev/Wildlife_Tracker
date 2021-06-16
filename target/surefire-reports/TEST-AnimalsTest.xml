@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="AnimalsTest" time="0.183" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="AnimalsTest" time="0.196" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.11+9"/>
@@ -62,10 +62,10 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase name="findByIdReturnsCorrectInfo" classname="AnimalsTest" time="0.03"/>
-  <testcase name="deleteAllEntries" classname="AnimalsTest" time="0.037"/>
-  <testcase name="ensureNameFieldCannotBeEmpty" classname="AnimalsTest" time="0.006"/>
-  <testcase name="allInstancesAreSaved" classname="AnimalsTest" time="0.024"/>
-  <testcase name="deleteById" classname="AnimalsTest" time="0.04"/>
+  <testcase name="deleteAllEntries" classname="AnimalsTest" time="0.04"/>
+  <testcase name="ensureNameFieldCannotBeEmpty" classname="AnimalsTest" time="0.014"/>
+  <testcase name="allInstancesAreSaved" classname="AnimalsTest" time="0.028"/>
+  <testcase name="deleteById" classname="AnimalsTest" time="0.028"/>
   <testcase name="testInstanceOfAnimalsClass_true" classname="AnimalsTest" time="0.008"/>
-  <testcase name="ensureEntryIsUpdatedCorrectly" classname="AnimalsTest" time="0.033"/>
+  <testcase name="ensureEntryIsUpdatedCorrectly" classname="AnimalsTest" time="0.04"/>
 </testsuite>
