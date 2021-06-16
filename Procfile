@@ -1,2 +1,2 @@
-web: ./build/install/wildlife-habib
-/bin/wildlife-habib
+web: ./build/install/Wildlife-Tracker/bin/Wildlife-Tracker
+

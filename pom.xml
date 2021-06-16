@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>Wildlife-Tracker</groupId>
-    <artifactId>wildlife-habib
+    <artifactId>Wildlife-Tracker
     </artifactId>
     <version>1.0</version>
 
@@ -90,10 +90,10 @@
                     <!-- Change this to YOUR application name! -->
                     <appName>wildlife-habib
                     </appName>
-                    <processTypes>
-                        <web>java -jar target/ wildlife-habib
-                            -1.0-jar-with-dependencies.jar</web>
-                    </processTypes>
+<!--                    <processTypes>-->
+<!--                        <web>java -jar target/ wildlife-habib-->
+<!--                            -1.0-jar-with-dependencies.jar</web>-->
+<!--                    </processTypes>-->
                 </configuration>
             </plugin>
         </plugins>
