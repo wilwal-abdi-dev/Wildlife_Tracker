@@ -1,0 +1,1 @@
+web: ./build/install/habib-coder/bin/habib-coder

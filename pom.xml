@@ -87,9 +87,9 @@
                 <configuration>
                     <jdkVersion>1.8</jdkVersion>
                     <!-- Change this to YOUR application name! -->
-                    <appName></appName>
+                    <appName>habib-coder</appName>
                     <processTypes>
-                        <web>java -jar target/-1.0-jar-with-dependencies.jar</web>
+                        <web>java -jar target/ habib-coder-1.0-jar-with-dependencies.jar</web>
                     </processTypes>
                 </configuration>
             </plugin>
