@@ -68,8 +68,12 @@ public class App {
         },new HandlebarsTemplateEngine());
 
 
-
-
+        get("/view/ranger/delete/:id/d",(request, response) -> {
+            Map<String,Object> model=new HashMap<String, Object>();
+            Rangers ranger = Rangers.find((Integer.parseInt(request.params("id")))) ;
+            ranger.delete();
+            return new ModelAndView(model,"delete-successful.hbs");
+        },new HandlebarsTemplateEngine());
 
         //location
         get("/create/location",(request, response) -> {
