@@ -28,6 +28,7 @@ locations with the sightings that have occured in them
 * CSS
 * HBS
 
+
 ## Support and contact details
 If you come across any problems you can reach me at: abdallah.abdul@student.moringaschool.com
 
