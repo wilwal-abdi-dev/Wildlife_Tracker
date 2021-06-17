@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: RangersTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.196 sec <<< FAILURE! - in RangersTest
-entriesAreDeleted(RangersTest)  Time elapsed: 0.063 sec  <<< ERROR!
+Tests run: 7, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.122 sec <<< FAILURE! - in RangersTest
+entriesAreDeleted(RangersTest)  Time elapsed: 0.037 sec  <<< ERROR!
 org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -12,7 +12,7 @@ ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
 	at RangersTest.entriesAreDeleted(RangersTest.java:67)
 
-allSightingsAreReturnedForRanger(RangersTest)  Time elapsed: 0.016 sec  <<< ERROR!
+allSightingsAreReturnedForRanger(RangersTest)  Time elapsed: 0.018 sec  <<< ERROR!
 org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -22,7 +22,7 @@ ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
 	at RangersTest.allSightingsAreReturnedForRanger(RangersTest.java:79)
 
-findById(RangersTest)  Time elapsed: 0.023 sec  <<< ERROR!
+findById(RangersTest)  Time elapsed: 0.017 sec  <<< ERROR!
 org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -32,7 +32,7 @@ ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
 	at RangersTest.findById(RangersTest.java:40)
 
-entryIsUpdatedCorrectly(RangersTest)  Time elapsed: 0.025 sec  <<< ERROR!
+entryIsUpdatedCorrectly(RangersTest)  Time elapsed: 0.013 sec  <<< ERROR!
 org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
@@ -42,7 +42,7 @@ ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
 	at RangersTest.entryIsUpdatedCorrectly(RangersTest.java:51)
 
-allEntriesAreSaved(RangersTest)  Time elapsed: 0.018 sec  <<< ERROR!
+allEntriesAreSaved(RangersTest)  Time elapsed: 0.012 sec  <<< ERROR!
 org.sql2o.Sql2oException: 
 Error in executeUpdate, ERROR: column "phone_number" of relation "rangers" does not exist
   Position: 40
