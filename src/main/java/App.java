@@ -93,6 +93,15 @@ public class App {
 
             return new ModelAndView(model,"location-form.hbs");
         },new HandlebarsTemplateEngine());
+
+        get("/view/location/delete/:id/d",(request, response) -> {
+            Map<String,Object> model=new HashMap<String, Object>();
+            Locations locations = Locations.find((Integer.parseInt(request.params("id")))) ;
+            locations.delete();
+            return new ModelAndView(model,"delete-successful.hbs");
+        },new HandlebarsTemplateEngine());
+
+
         get("/view/locations",(request, response) -> {
             Map<String,Object> model=new HashMap<String, Object>();
             model.put("locations",Locations.all());
