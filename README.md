@@ -5,7 +5,7 @@ sightings. It also allows you to view rangers locations sightings and animals. O
 locations with the sightings that have occured in them
 
 ## Author
-- [Abdallah Habib](https://github.com/Habib001-coder)
+- [muhudin abdi ali](https://github.com/wilwal-abdi-dev)
 
 ## Setup Requirements for Database
 * In PSQL:
@@ -34,5 +34,5 @@ If you come across any problems you can reach me at: abdallah.abdul@student.mori
 
 ### License
 *This project is licensed under the terms of the MIT license.*
-Copyright (c) 2021 **Abdallah Habib Abdul**
+Copyright (c) 2021 **muhudin abdi ali**
 
