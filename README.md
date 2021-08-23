@@ -30,7 +30,7 @@ locations with the sightings that have occured in them
 
 
 ## Support and contact details
-If you come across any problems you can reach me at: abdallah.abdul@student.moringaschool.com
+If you come across any problems you can reach me at:muhudin.ali@student.moringaschool.com
 
 ### License
 *This project is licensed under the terms of the MIT license.*
